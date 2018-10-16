@@ -1,0 +1,12 @@
+ID         NAME            AGE        GENDER         SCORE         GRADE
+***************************************************************************
+10682881   Dennis          20         male           79             B
+10682882   Dave            19         male           82             A
+10682883   Diana           21         female         75             B
+10682884   Doreen          22         female         90             A
+10682885   Dorcas          21         female         68             C
+***************************************************************************
+averageAge=20.6
+averageScore=78.8
+maleCount=2
+femaleCount=3
